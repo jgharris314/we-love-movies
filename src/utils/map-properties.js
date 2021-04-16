@@ -1,5 +1,4 @@
 const lodash = require("lodash")
-
 function mapProperties (configuration) {
   
   return (data) => {
